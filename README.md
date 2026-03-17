@@ -16,8 +16,8 @@ O sistema permite a liberação de ração de forma automática ou remota atrav�
 - Sistema embarcado com comunicação entre hardware e software
 
 ## 🛠️ Estrutura do Projeto
-- `codigo/programa_pronto.ino` → Código fonte do ESP32  
-- `relatorio_tecnico.pdf` → Apresentação do projeto    
+- [Código fonte do ESP32](codigo/programa_pronto.ino)  
+- [Relatório Técnico](relatorio_tecnico.pdf)
 
 ## 🎥 Demonstração
 https://youtube.com/shorts/dfz-IatvJ1E?feature=share
